@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class exercice3_poulet {
 
     /**
-     * Main function calculates the price including tax from a price excluding tax.
+     * Main function reverse a number and checks if it's a palindrome.
      */
     public static void main (String[] args) {
 
