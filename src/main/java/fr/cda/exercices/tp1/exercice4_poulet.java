@@ -1,7 +1,7 @@
 package fr.cda.exercices.tp1;
 
-import java.util.Arrays;
 import java.util.HashMap;
+
 public class exercice4_poulet {
         public static void main(String[] args) {
 
